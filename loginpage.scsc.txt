@@ -1,0 +1,17 @@
+page-loginpage {
+    .center-allignment{
+        margin-top: 200px;
+    }
+    .box-design{
+        border:1px solid black;
+        border-radius: 20px;
+        margin-bottom: 20px;
+        height:15px;
+    }
+    .button-design{
+        border-radius: 20px;
+        
+        
+    }
+
+}
